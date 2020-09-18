@@ -1,0 +1,274 @@
+﻿area,pct_pov,state,county,tract
+Alameda County,8.2,06,001,00562
+Alameda County,7.9,06,001,00674
+Alameda County,14.3,06,001,02980
+Alameda County,20.0,06,001,06000
+Alameda County,4.5,06,001,11964
+Alameda County,12.3,06,001,12902
+Alameda County,2.9,06,001,20018
+Alameda County,13.2,06,001,22594
+Alameda County,6.4,06,001,23350
+Alameda County,5.4,06,001,26000
+Alameda County,10.0,06,001,33000
+Alameda County,5.3,06,001,41992
+Alameda County,5.5,06,001,50916
+Alameda County,19.4,06,001,53000
+Alameda County,2.0,06,001,56938
+Alameda County,2.6,06,001,57792
+Alameda County,6.4,06,001,68084
+Alameda County,5.4,06,001,68112
+Alameda County,1.4,06,001,77042
+Alameda County,6.5,06,001,81204
+Fresno County,13.8,06,019,03190
+Fresno County,25.9,06,019,06728
+Fresno County,34.9,06,019,07750
+Fresno County,28.0,06,019,10032
+Fresno County,38.1,06,019,10816
+Fresno County,17.6,06,019,11614
+Fresno County,10.6,06,019,14218
+Fresno County,20.3,06,019,14274
+Fresno County,34.2,06,019,18674
+Fresno County,24.0,06,019,20928
+Fresno County,22.5,06,019,24134
+Fresno County,21.5,06,019,25436
+Fresno County,26.2,06,019,27000
+Fresno County,12.6,06,019,27014
+Fresno County,39.4,06,019,36084
+Fresno County,20.2,06,019,38226
+Fresno County,11.5,06,019,38562
+Fresno County,29.1,06,019,40116
+Fresno County,17.4,06,019,40746
+Fresno County,41.9,06,019,46828
+Fresno County,44.5,06,019,54008
+Fresno County,36.0,06,019,55856
+Fresno County,21.3,06,019,59290
+Fresno County,23.8,06,019,60242
+Fresno County,26.5,06,019,61096
+Fresno County,23.7,06,019,67056
+Fresno County,34.6,06,019,67126
+Fresno County,22.7,06,019,70882
+Fresno County,10.3,06,019,71246
+Fresno County,8.9,06,019,73794
+Fresno County,7.9,06,019,80266
+Los Angeles County,3.5,06,037,00212
+Los Angeles County,3.5,06,037,00394
+Los Angeles County,14.3,06,037,00884
+Los Angeles County,19.1,06,037,01150
+Los Angeles County,10.6,06,037,01290
+Los Angeles County,7.9,06,037,02462
+Los Angeles County,11.5,06,037,02896
+Los Angeles County,10.4,06,037,03274
+Los Angeles County,16.3,06,037,03344
+Los Angeles County,18.8,06,037,03386
+Los Angeles County,18.2,06,037,03666
+Los Angeles County,24.1,06,037,04870
+Los Angeles County,15.8,06,037,04982
+Los Angeles County,27.3,06,037,04996
+Los Angeles County,9.1,06,037,06308
+Los Angeles County,2.0,06,037,07946
+Los Angeles County,10.5,06,037,08954
+Los Angeles County,3.3,06,037,09598
+Los Angeles County,9.3,06,037,11530
+Los Angeles County,5.0,06,037,12552
+Los Angeles County,7.5,06,037,12734
+Los Angeles County,12.8,06,037,13560
+Los Angeles County,8.0,06,037,13756
+Los Angeles County,17.9,06,037,14974
+Los Angeles County,28.0,06,037,15044
+Los Angeles County,11.6,06,037,16742
+Los Angeles County,28.3,06,037,17498
+Los Angeles County,8.6,06,037,17568
+Los Angeles County,5.7,06,037,18352
+Los Angeles County,10.1,06,037,19052
+Los Angeles County,6.0,06,037,19192
+Los Angeles County,11.1,06,037,19766
+Los Angeles County,11.3,06,037,19990
+Los Angeles County,36.7,06,037,20550
+Los Angeles County,5.8,06,037,20746
+Los Angeles County,27.2,06,037,20802
+Los Angeles County,9.4,06,037,20984
+Los Angeles County,10.5,06,037,21096
+Los Angeles County,26.1,06,037,22230
+Los Angeles County,4.6,06,037,22412
+Los Angeles County,35.8,06,037,24477
+Los Angeles County,15.7,06,037,28168
+Los Angeles County,15.5,06,037,30000
+Los Angeles County,5.9,06,037,30014
+Los Angeles County,9.3,06,037,31596
+Los Angeles County,22.1,06,037,32506
+Los Angeles County,20.3,06,037,32548
+Los Angeles County,4.6,06,037,33364
+Los Angeles County,3.5,06,037,33518
+Los Angeles County,25.2,06,037,36056
+Los Angeles County,14.5,06,037,36490
+Los Angeles County,22.5,06,037,36546
+Los Angeles County,16.4,06,037,36826
+Los Angeles County,4.3,06,037,39003
+Los Angeles County,5.3,06,037,39045
+Los Angeles County,3.7,06,037,39108
+Los Angeles County,3.4,06,037,39304
+Los Angeles County,23.1,06,037,39612
+Los Angeles County,7.4,06,037,39892
+Los Angeles County,5.6,06,037,40032
+Los Angeles County,16.4,06,037,40130
+Los Angeles County,18.9,06,037,40340
+Los Angeles County,4.7,06,037,40830
+Los Angeles County,17.3,06,037,40886
+Los Angeles County,31.5,06,037,41180
+Los Angeles County,23.7,06,037,41880
+Los Angeles County,11.1,06,037,42468
+Los Angeles County,22.8,06,037,43000
+Los Angeles County,22.1,06,037,44000
+Los Angeles County,23.5,06,037,44574
+Los Angeles County,7.6,06,037,45246
+Los Angeles County,3.2,06,037,45400
+Los Angeles County,8.8,06,037,45806
+Los Angeles County,7.0,06,037,46436
+Los Angeles County,24.5,06,037,46492
+Los Angeles County,13.1,06,037,48648
+Los Angeles County,17.0,06,037,48816
+Los Angeles County,15.6,06,037,48914
+Los Angeles County,7.4,06,037,51820
+Los Angeles County,11.9,06,037,52526
+Los Angeles County,15.8,06,037,55156
+Los Angeles County,2.2,06,037,55380
+Los Angeles County,21.9,06,037,55618
+Los Angeles County,15.9,06,037,56000
+Los Angeles County,12.6,06,037,56924
+Los Angeles County,21.6,06,037,58072
+Los Angeles County,11.9,06,037,59052
+Los Angeles County,2.9,06,037,59514
+Los Angeles County,5.9,06,037,60018
+Los Angeles County,1.3,06,037,62602
+Los Angeles County,1.7,06,037,62644
+Los Angeles County,22.8,06,037,62896
+Los Angeles County,12.0,06,037,63218
+Los Angeles County,6.3,06,037,66070
+Los Angeles County,19.1,06,037,66140
+Los Angeles County,15.9,06,037,67042
+Los Angeles County,5.0,06,037,68224
+Los Angeles County,6.4,06,037,69088
+Los Angeles County,12.5,06,037,69154
+Los Angeles County,10.4,06,037,70000
+Los Angeles County,3.7,06,037,71806
+Los Angeles County,17.2,06,037,71876
+Los Angeles County,19.0,06,037,72996
+Los Angeles County,19.2,06,037,73080
+Los Angeles County,6.1,06,037,73220
+Los Angeles County,11.0,06,037,73276
+Los Angeles County,18.5,06,037,73290
+Los Angeles County,12.4,06,037,73430
+Los Angeles County,9.3,06,037,78148
+Los Angeles County,6.4,06,037,80000
+Los Angeles County,12.8,06,037,81638
+Los Angeles County,6.4,06,037,81967
+Los Angeles County,0.0,06,037,82422
+Los Angeles County,5.1,06,037,82667
+Los Angeles County,9.8,06,037,82814
+Los Angeles County,6.5,06,037,83332
+Los Angeles County,20.8,06,037,83402
+Los Angeles County,25.8,06,037,84116
+Los Angeles County,9.5,06,037,84144
+Los Angeles County,17.0,06,037,84186
+Los Angeles County,9.0,06,037,84200
+Los Angeles County,11.5,06,037,84410
+Los Angeles County,2.5,06,037,84438
+Los Angeles County,36.9,06,037,84592
+Los Angeles County,11.5,06,037,84774
+Los Angeles County,8.9,06,037,84921
+Los Angeles County,10.5,06,037,85292
+Los Angeles County,30.7,06,037,85614
+San Diego County,6.6,06,073,01192
+San Diego County,3.7,06,073,07414
+San Diego County,6.5,06,073,07498
+San Diego County,11.2,06,073,07596
+San Diego County,12.5,06,073,07624
+San Diego County,9.7,06,073,10559
+San Diego County,8.4,06,073,10561
+San Diego County,5.9,06,073,11194
+San Diego County,7.5,06,073,11691
+San Diego County,10.6,06,073,13392
+San Diego County,5.0,06,073,16378
+San Diego County,9.1,06,073,17106
+San Diego County,8.7,06,073,18506
+San Diego County,16.7,06,073,21712
+San Diego County,7.3,06,073,22678
+San Diego County,13.4,06,073,22804
+San Diego County,3.0,06,073,23150
+San Diego County,14.7,06,073,23462
+San Diego County,2.2,06,073,30703
+San Diego County,4.8,06,073,32044
+San Diego County,1.5,06,073,33532
+San Diego County,18.8,06,073,36294
+San Diego County,8.9,06,073,37120
+San Diego County,6.6,06,073,37582
+San Diego County,3.2,06,073,39724
+San Diego County,8.5,06,073,39766
+San Diego County,9.4,06,073,40004
+San Diego County,10.7,06,073,40326
+San Diego County,13.7,06,073,41124
+San Diego County,22.0,06,073,50398
+San Diego County,11.6,06,073,53322
+San Diego County,3.9,06,073,57260
+San Diego County,4.3,06,073,58520
+San Diego County,23.2,06,073,59248
+San Diego County,12.8,06,073,59346
+San Diego County,4.6,06,073,59550
+San Diego County,3.5,06,073,59584
+San Diego County,14.6,06,073,66000
+San Diego County,3.4,06,073,66004
+San Diego County,12.0,06,073,68196
+San Diego County,5.4,06,073,70224
+San Diego County,6.7,06,073,72506
+San Diego County,8.6,06,073,73696
+San Diego County,6.6,06,073,81736
+San Diego County,14.2,06,073,82996
+San Diego County,8.5,06,073,85992
+San Francisco County,11.3,06,075,67000
+Santa Clara County,10.9,06,085,01458
+Santa Clara County,26.7,06,085,08848
+Santa Clara County,10.8,06,085,08968
+Santa Clara County,5.6,06,085,10088
+Santa Clara County,4.8,06,085,10345
+Santa Clara County,4.8,06,085,17610
+Santa Clara County,3.0,06,085,20598
+Santa Clara County,6.6,06,085,27080
+Santa Clara County,10.4,06,085,29504
+Santa Clara County,3.3,06,085,41282
+Santa Clara County,2.4,06,085,43280
+Santa Clara County,3.9,06,085,43294
+Santa Clara County,4.3,06,085,44112
+Santa Clara County,0.8,06,085,44378
+Santa Clara County,5.0,06,085,47766
+Santa Clara County,4.2,06,085,48956
+Santa Clara County,4.7,06,085,49278
+Santa Clara County,6.8,06,085,49670
+Santa Clara County,4.8,06,085,55282
+Santa Clara County,8.8,06,085,68000
+Santa Clara County,8.4,06,085,68238
+Santa Clara County,7.8,06,085,69084
+Santa Clara County,2.8,06,085,70280
+Santa Clara County,32.8,06,085,71074
+Santa Clara County,21.4,06,085,73906
+Santa Clara County,5.4,06,085,77000
+Santa Clara County,15.5,06,085,77049
+San Joaquin County,29.8,06,077,03209
+San Joaquin County,11.5,06,077,16651
+San Joaquin County,8.6,06,077,22790
+San Joaquin County,15.3,06,077,23630
+San Joaquin County,40.8,06,077,26028
+San Joaquin County,24.5,06,077,28182
+San Joaquin County,44.8,06,077,38065
+San Joaquin County,9.3,06,077,40704
+San Joaquin County,8.4,06,077,41558
+San Joaquin County,7.1,06,077,41670
+San Joaquin County,12.5,06,077,42104
+San Joaquin County,16.7,06,077,42202
+San Joaquin County,9.7,06,077,45484
+San Joaquin County,7.7,06,077,49180
+San Joaquin County,3.8,06,077,52452
+San Joaquin County,6.2,06,077,61026
+San Joaquin County,7.1,06,077,73461
+San Joaquin County,23.9,06,077,75000
+San Joaquin County,35.2,06,077,77595
+San Joaquin County,7.0,06,077,80238
