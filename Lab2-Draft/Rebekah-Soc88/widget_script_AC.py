@@ -50,15 +50,19 @@ def f(inp):
         oakland_area = ['Alameda', 'Albany', 'Berkeley', 'Emeryville', 'Oakand', 'Oakland','Piedmont', 'San']
         city_tree = holc_5072[holc_5072['area'].isin(oakland_area)]
         
-    fig = plt.figure()
-    ax1=plt.subplot(2, 2, 1)
-    ax2=plt.subplot(2, 2, 2)
+    fig = plt.figure();
+    ax1=plt.subplot(2, 2, 1);
+    ax2=plt.subplot(2, 2, 2);
     
-    city_tree.plot(ax = ax1, column="holc_grade",  cmap = RdOrYlGr, legend=True)
-    ax1.set_title("HOLC Areas", size = "x-large")
+    city_tree.plot(ax = ax1, column="holc_grade",  cmap = RdOrYlGr, legend=True);
+    ax1.set_title("HOLC Areas", size = "x-large");
+    ax1.get_xaxis().set_visible(False);
+    ax1.get_yaxis().set_visible(False);
 
-    city_tree.plot(ax = ax2, column="_mean", cmap = cm.get_cmap('RdYlGn'), legend=True)
-    ax2.set_title("Tree Canopy average coverage per area", size = "x-large")
+    city_tree.plot(ax = ax2, column="_mean", cmap = cm.get_cmap('RdYlGn'), legend=True);
+    ax2.set_title("Tree Canopy average coverage per area", size = "x-large");
+    ax2.get_xaxis().set_visible(False);
+    ax2.get_yaxis().set_visible(False);      
         
     plt.subplots_adjust(left = 0.3, wspace = 0.06);
 
