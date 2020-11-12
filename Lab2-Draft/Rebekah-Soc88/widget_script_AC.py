@@ -26,7 +26,7 @@ from matplotlib import cm
 
 from matplotlib.colors import ListedColormap
 # Create a ListedColormap object called holc_cmap, pass in the list of colors
-RdOrYlGr = ListedColormap(['#35952B', '#fee999', '#fa9856', '#b0222c'])
+GrBlYlRd = ListedColormap(['green', 'blue', 'yellow', 'red'])
 
 holc_5072 = gpd.read_file('holc_ca_epsg5072_treecov')
 
@@ -54,13 +54,13 @@ def f(inp):
     ax1=plt.subplot(2, 2, 1);
     ax2=plt.subplot(2, 2, 2);
     
-    city_tree.plot(ax = ax1, column="holc_grade",  cmap = RdOrYlGr, legend=True);
+    city_tree.plot(ax = ax1, column="holc_grade",  cmap = GrBlYlRd, legend=True);
     ax1.set_title("HOLC Areas", size = "x-large");
     ax1.get_xaxis().set_visible(False);
     ax1.get_yaxis().set_visible(False);
 
-    city_tree.plot(ax = ax2, column="_mean", cmap = cm.get_cmap('RdYlGn'), legend=True);
-    ax2.set_title("Tree Canopy average coverage per area", size = "x-large");
+    city_tree.plot(ax = ax2, column="_mean", cmap = cm.get_cmap('Greens'), legend=True);
+    ax2.set_title("Tree Canopy Average Coverage Per Area", size = "x-large");
     ax2.get_xaxis().set_visible(False);
     ax2.get_yaxis().set_visible(False);      
         
