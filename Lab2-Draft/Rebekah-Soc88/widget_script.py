@@ -19,6 +19,7 @@ import warnings
 warnings.filterwarnings('ignore')
 from IPython.display import IFrame
 
+print("hi")
 ###
 
 
@@ -26,9 +27,7 @@ from IPython.display import IFrame
 from matplotlib.colors import ListedColormap
 # Create a ListedColormap object called holc_cmap, pass in the list of colors
 holc_cmap = ListedColormap(['green', 'blue', 'yellow', 'red'], name='holc_colors')
-
 holc_5072 = gpd.read_file('holc_ca_epsg5072_treecov')
-
 
 ###
 

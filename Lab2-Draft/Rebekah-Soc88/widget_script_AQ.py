@@ -18,16 +18,19 @@ plt.rcParams['figure.figsize'] = [30, 20]
 import warnings
 warnings.filterwarnings('ignore')
 from IPython.display import IFrame
-from matplotlib import cm
 
 ###
 
 
+
 from matplotlib.colors import ListedColormap
 # Create a ListedColormap object called holc_cmap, pass in the list of colors
-GrBlYlRd = ListedColormap(['green', 'blue', 'yellow', 'red'])
+holc_cmap = ListedColormap(['green', 'blue', 'yellow', 'red'], name='holc_colors')
 
 holc_5072 = gpd.read_file('holc_ca_epsg5072_treecov')
+
+
+###
 
 
 
@@ -35,7 +38,8 @@ inp = widgets.Dropdown(
     options=['Los Angeles', 'Fresno', "San Francisco", "San Jose", "Stockton", "San Diego", 'Oakland'],
     value='Los Angeles',
     description='City:',
-    disabled=False)
+    disabled=False,
+)
 
 def f(inp):
     if inp != "Oakland":
@@ -45,19 +49,15 @@ def f(inp):
         oakland_area = ['Alameda', 'Albany', 'Berkeley', 'Emeryville', 'Oakand', 'Oakland','Piedmont', 'San']
         city_tree = holc_5072[holc_5072['area'].isin(oakland_area)]
         
-    fig = plt.figure();
-    ax1=plt.subplot(2, 2, 1);
-    ax2=plt.subplot(2, 2, 2);
+    fig = plt.figure()
+    ax1=plt.subplot(2, 2, 1)
+    ax2=plt.subplot(2, 2, 2)
     
-    city_tree.plot(ax = ax1, column="holc_grade",  cmap = GrBlYlRd, legend=True);
-    ax1.set_title("HOLC Areas", size = "x-large");
-    ax1.get_xaxis().set_visible(False);
-    ax1.get_yaxis().set_visible(False);
+    city_tree.plot(ax = ax1, column="holc_grade",  cmap = holc_cmap, legend=True)
+    ax1.set_title("HOLC Areas")
 
-    city_tree.plot(ax = ax2, column="_mean", cmap = cm.get_cmap('Greens'), legend=True);
-    ax2.set_title("Tree Canopy Average Coverage Per Area", size = "x-large");
-    ax2.get_xaxis().set_visible(False);
-    ax2.get_yaxis().set_visible(False);      
+    city_tree.plot(ax = ax2, column="_mean")
+    ax2.set_title("Tree Canopy average coverage per area")
         
     plt.subplots_adjust(left = 0.3, wspace = 0.06);
 
