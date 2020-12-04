@@ -25,7 +25,7 @@ import contextily as ctx
 
 # Create a ListedColormap object called holc_cmap, pass in the list of colors
 from matplotlib.colors import ListedColormap
-GrBlYlRd = ListedColormap(['green', 'blue', 'yellow', 'red'])
+GrBlYlRd = ListedColormap(['green', 'dodgerblue', 'yellow', 'red'])
 
 # Import data and convert to a specific map projection
 holc_5072_original = gpd.read_file('holc_ca_epsg5072_treecov')
