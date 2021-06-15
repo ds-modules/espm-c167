@@ -4,8 +4,8 @@ Module for Environmental Health and Development (ESPM C167 or PBHLTH C160) in Sp
 
 
 #### Full Directory (ignore these, students!)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/espm-167/master)
-[![UCB Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fespm-c167&urlpath=tree%2Fespm-c167%2F&branch=master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/espm-167/main)
+[![UCB Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fespm-c167&urlpath=tree%2Fespm-c167%2F&branch=main)
 
 #### Labs (click here, students!)
-[![Lab 2](https://img.shields.io/badge/Launch-Lab%202-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fespm-c167&urlpath=tree%2Fespm-c167%2FLab2%2FTree_Canopy_Notebook_2.ipynb&branch=master)
+[![Lab 2](https://img.shields.io/badge/Launch-Lab%202-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fespm-c167&urlpath=tree%2Fespm-c167%2FLab2%2FTree_Canopy_Notebook_2.ipynb&branch=main)
